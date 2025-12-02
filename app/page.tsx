@@ -180,7 +180,7 @@ export default function HomePage() {
           </div>
           <div className="shrink-0">
             <img
-              src="/tatva-ops-logo.png"
+              src="/Tatva-ops-logo.png"
               alt="tatva:Ops logo"
               className="h-10 md:h-12 object-contain"
             />
